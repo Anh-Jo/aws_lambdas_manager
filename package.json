@@ -1,0 +1,19 @@
+{
+  "name": "aws_workaround",
+  "version": "1.0.0",
+  "description": "A project where I try some thing about aws lambdas like script for autodeploy, etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compressing": "^1.5.0",
+    "inquirer": "^7.1.0",
+    "chalk": "latest"
+  },
+  "devDependencies": {
+    "node-zip": "^1.1.1"
+  }
+}
